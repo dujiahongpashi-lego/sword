@@ -1,0 +1,15 @@
+{
+  "name": "wired_sword",
+  "version": "1.0.0",
+  "description": "有线版天空之傲PC端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "独家轰趴师",
+  "license": "ISC",
+  "dependencies": {
+    "robotjs": "^0.6.0",
+    "serialport": "^10.4.0"
+  }
+}
