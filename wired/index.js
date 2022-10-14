@@ -5,8 +5,6 @@ const LEGO_SERIAL_PORT = 'COM3'
 const { SerialPort, ReadlineParser } = require('serialport')
 const { dataParser } = require('./serialDataParser')
 
-console.log(dataParser)
-
 SerialPort.list().then((ports) => {
     console.log(ports);
 }).catch((err) => {

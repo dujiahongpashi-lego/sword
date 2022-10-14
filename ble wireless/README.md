@@ -18,10 +18,14 @@ PC端使用Nodejs开发web程序，使用chrome的Web Bluetooth功能实现蓝�
 
 ## 使用方法
 
-[`HUB.py`](../hid%20simulated/HUB.py)乐高代码，请上传至设备
+- [`HUB.py`](../hid%20simulated/HUB.py)乐高代码（在`hid simulated`目录），请上传至设备
 
-TODO
+- 剩下的没做
+
 
 ## 功能
 
-更多功能补充中......
+这个功能鸽了。
+
+乐高HUB代码直接可以拿来用，剩下的我不打算做了。
+
